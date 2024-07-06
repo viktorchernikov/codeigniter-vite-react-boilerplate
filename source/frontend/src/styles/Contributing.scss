@@ -1,0 +1,9 @@
+$github-color: #ffffffaa;
+$gitlab-color: rgba(255, 141, 96, 0.667);
+
+#logo-github:hover {
+    filter: drop-shadow(0 0 2em $github-color);
+  }
+#logo-gitlab:hover {
+    filter: drop-shadow(0 0 2em $gitlab-color);
+  }
